@@ -4,5 +4,5 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: pythinkutils
+    container_name: ThinkSchool
 #    command: bash -c "python main.py"
